@@ -93,8 +93,7 @@ Have a good time!)";
 			}
 			}
 		else if(mGir == 5) {
-			cout << "Producer Teacher:\nAntrophic Claude" << endl;
-			cout << "Producer:\nFrixia" << endl;
+			cout << "Producer:\nMade by 13 Years old Frixxions" << endl;
 		}
 		else if(mGir == 6) {
 			return 0;
